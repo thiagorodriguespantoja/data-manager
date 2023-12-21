@@ -1,4 +1,4 @@
-# ordenacaodedados
+# ordenacao_de_dados
 Este repositório contém um programa simples em Python que implementa um algoritmo para ordenar e imprimir listas de números. O algoritmo recebe uma lista de três números como entrada e, se os números estiverem na ordem específica [20, 10, 30], ele os ordena em ordem crescente e os imprime. Caso contrário, o programa emite uma mensagem de erro indicando que os valores não correspondem à ordem esperada.
 
 Instruções de Uso:
